@@ -1,0 +1,23 @@
+*,
+*::after,
+*::before {
+  padding: 0;
+  padding: 0;
+  box-sizing: inherit;
+}
+
+html {
+  box-sizing: border-box;62.5%;
+  font-size: ;
+}
+
+body {
+  background-image: linear-gradient(to right bottom, #388E3C, #81C784);
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: #e6e6e6;
+  font-size: 2rem;
+}
